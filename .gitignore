@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+SignalRHubFunctions/.vs/SignalRHubFunctions/v16/.suo
+ClientApps/JavascriptApp/.vscode
+SignalRHubFunctions/SignalRHubFunctions/Properties/

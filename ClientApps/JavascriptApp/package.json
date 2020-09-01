@@ -1,0 +1,15 @@
+{
+  "name": "test-signal-r-service-client",
+  "version": "1.0.0",
+  "description": "This app is a test for Signal R service client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Pat",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
