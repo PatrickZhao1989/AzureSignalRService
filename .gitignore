@@ -105,3 +105,7 @@ dist
 SignalRHubFunctions/.vs/SignalRHubFunctions/v16/.suo
 ClientApps/JavascriptApp/.vscode
 SignalRHubFunctions/SignalRHubFunctions/Properties/
+*.suo
+ClientApps/CSharpApp/SignalRServiceConsoleAppClient/SignalRServiceConsoleAppClient/bin
+ClientApps/CSharpApp/SignalRServiceConsoleAppClient/SignalRServiceConsoleAppClient/obj
+SignalRHubFunctions/.vs/SignalRHubFunctions/DesignTimeBuild/.dtbcache.v2
